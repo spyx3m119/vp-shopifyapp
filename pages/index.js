@@ -6,7 +6,7 @@ import DashBoard from './components/DashBoard';
 
 const navigation = <AppNavigation />;
 
-function dashboard() {
+function Dashboard() {
   return (    
     <Frame
       navigation={navigation}
@@ -17,4 +17,4 @@ function dashboard() {
   );
 }
 
-export default dashboard;
+export default Dashboard;

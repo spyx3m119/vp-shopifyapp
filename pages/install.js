@@ -1,7 +1,7 @@
 import { Heading, Page, TextContainer } from '@shopify/polaris'
 import React from 'react'
 
-function install() {
+function Install() {
   return (
     <Page title="Install Page">
         <TextContainer>
@@ -16,4 +16,4 @@ function install() {
   )
 }
 
-export default install;
+export default Install;
